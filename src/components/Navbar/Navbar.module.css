@@ -1,0 +1,20 @@
+#navbar {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  transition: padding-top 0.3s, padding-bottom 0.3s;
+  background-color: #2c3e50 !important;
+}
+.logo {
+  font-size: 1.75em !important;
+  transition: font-size 0.3s !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+.navlink {
+  font-size: 1.2em !important;
+  font-weight: 500 !important;
+  color: white !important;
+}
+.navlink:hover {
+  color: #1abc9c !important;
+}

@@ -1,0 +1,43 @@
+.avatar {
+  width: 250px;
+  padding-bottom: 30px;
+}
+
+#header {
+  padding-top: 150px;
+  padding-bottom: 30px;
+  background-color: #1abc9c !important;
+}
+.heading {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.dividerDiv {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dividerRight {
+  margin-right: 1rem;
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+.dividerLeft {
+  margin-left: 1rem;
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+.subheading {
+  font-size: 1.5rem;
+}
